@@ -28,6 +28,3 @@ Welcome to **ExpressFood**, a highly scalable and performant food ordering app p
 
 ---
 
-Check out the live project [FoodExpress](https://foodexpresss.netlify.app/).
-
-I would love your contributions and support!
