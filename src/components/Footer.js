@@ -123,7 +123,7 @@ const Footer = () => {
             © Food Express 2024 - All rights reserved |{" "}
             <span className="inline-flex">
               <a
-                href="https://amolsasane.netlify.app/"
+                href="h"
                 className="block mt-2 hover:underline hover:font-bold"
                 target="_blank"
                 rel="noreferrer"
